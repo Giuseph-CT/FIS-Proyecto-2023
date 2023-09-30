@@ -36,9 +36,9 @@
 </ul>
 </li>
 <li>
-<p><strong>Gestión de Usuarios:</strong></p>
+<p><strong>Gestión de Expedientes:</strong></p>
 <ul>
-<li>El sistema debe permitir la gestión de usuarios, incluyendo la creación y eliminación de cuentas de profesionales de la nutrición.</li>
+<li>El sistema debe permitir la gestión y creacion de expedientes.</li>
 </ul>
 </li>
 <li>
