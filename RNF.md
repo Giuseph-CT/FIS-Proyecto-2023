@@ -3,7 +3,7 @@
 
 ---
 
-<p>#Requerimientos no funcionales</p>
+<p># Requerimientos no funcionales</p>
 <ol>
 <li>El software debe ser intuitivo y fácil de usar.</li>
 <li>Al ser información personal requiere de seguridad para resguardar los datos.</li>
