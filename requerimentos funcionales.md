@@ -42,12 +42,6 @@
 </ul>
 </li>
 <li>
-<p><strong>Interfaz de Usuario Intuitiva:</strong></p>
-<ul>
-<li>La interfaz de usuario debe ser fácil de usar y comprender, incluso para personas con conocimientos específicos en nutrición.</li>
-</ul>
-</li>
-<li>
 <p><strong>Compatibilidad de Dispositivos:</strong></p>
 <ul>
 <li>El software debe ser compatible con múltiples dispositivos, como computadoras de escritorio, tablets y teléfonos móviles.</li>
