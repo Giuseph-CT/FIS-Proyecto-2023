@@ -9,6 +9,5 @@
 <li>Al ser información personal requiere de seguridad para resguardar los datos.</li>
 <li>Es un software sencillo por lo que no requiere de mucha potencia computacional.</li>
 <li>Tiene que funcionar en diferentes sistemas operativos.</li>
-<li> </li>  
 </ol>
 
