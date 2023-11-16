@@ -23,8 +23,8 @@
 </ol>
 <p>In summary, as a team, we commit to embracing these adjustments derived from the manifesto to ensure that agile values are effectively integrated into our project. This approach will allow us to develop high-quality software while maintaining our agility and adaptability to any changes in the project landscape.</p>
 <h1 id="sources"><strong>sources</strong></h1>
-<p><a href="https://www.autentia.com/wp-content/uploads/2018/06/05-Mazo-COACHING.pdf">https://www.autentia.com/wp-content/uploads/2018/06/05-Mazo-COACHING.pdf</a></p>
-<p><a href="https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/">https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/</a></p>
-<p><a href="https://repositorio.utp.edu.co/items/61b1e230-60c9-4710-bec3-329293c40dff">https://repositorio.utp.edu.co/items/61b1e230-60c9-4710-bec3-329293c40dff</a></p>
-<p><a href="http://www.lecciones-aprendidas.info/2019/10/el-manifiesto-agil-esta-pensado-para-el-ecosistema-software.html">http://www.lecciones-aprendidas.info/2019/10/el-manifiesto-agil-esta-pensado-para-el-ecosistema-software.html</a></p>
+<p>Autentia.(2018/18/abril) 12 Principios del Manifiesto Ágil. autentia. <a href="https://www.autentia.com/wp-content/uploads/2018/06/05-Mazo-COACHING.pdf">https://www.autentia.com/wp-content/uploads/2018/06/05-Mazo-COACHING.pdf</a></p>
+<p>Sentrio. (2022, 1 septiembre). <em>Metodologías agile: Los 4 valores y 12 principios del ‘Manifiesto Ágil’</em>. Sentrio. <a href="https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/">https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/</a></p>
+<p><em>El manifiesto ágil está pensado para todo el ecosistema software</em>. (2019, 8 octubre). <a href="http://www.lecciones-aprendidas.info/2019/10/el-manifiesto-agil-esta-pensado-para-el-ecosistema-software.html">http://www.lecciones-aprendidas.info/2019/10/el-manifiesto-agil-esta-pensado-para-el-ecosistema-software.html</a></p>
+<p>doinGlobal. (2023, 5 junio). <em>Los 12 principios del manifiesto ágil</em>. Make the world a better place. <a href="https://doinglobal.com/los-12-principios-del-manifiesto-agil/">https://doinglobal.com/los-12-principios-del-manifiesto-agil/</a></p>
 
