@@ -3,8 +3,8 @@
 
 ---
 
-<p><strong>Resulting product</strong><br>
-Select a product resulting from the design stage (Architecture, Database, User Interface, Procedures). Explains in a clear and synthetic way any method associated with the resulting product. Provide an example based on the experience of the team project you are developing.</p>
+<h2 id="resulting-product">Resulting product</h2>
+<p>Select a product resulting from the design stage (Architecture, Database, User Interface, Procedures). Explains in a clear and synthetic way any method associated with the resulting product. Provide an example based on the experience of the team project you are developing.</p>
 <p>Selected resulting product: User interface.</p>
 <p>A method associated with the resulting product of the user interface could be “Usability Testing”. Usability testing is a process by which the user interface is evaluated with real users to identify potential design issues and improve the overall user experience.</p>
 <p>This method has a process which consists of 7 stages:</p>
@@ -31,10 +31,12 @@ Select a product resulting from the design stage (Architecture, Database, User I
 <p>Iteration Testing: The usability testing cycle can be repeated several times during product development to ensure that the improvements made have had the desired impact and to identify any new problems that may arise.</p>
 </li>
 </ol>
-<p><strong>Example based on experience:</strong><br>
-In my case, I made the sketches of the user interfaces, in my experience I carried out this method of usability testing halfway so to speak, since I marked the objectives that the interfaces had to have based on the functional and non-functional requirements , I had to make sure that it met these requirements, on the other hand, I asked several people what they thought about the appearance and whether it was easy and quick to understand, this helped me give an idea in which I could realize what aspect to improve the interfaces and to be able to improve them with respect to the opinions of the different people I asked, and I repeated this same process about three times until I was satisfied with the sketch of interfaces and achieved the objectives of meeting said requirements and making them pleasant , easy and quick to understand for the client.</p>
-<p><strong>References:</strong></p>
-<p>Métodos evaluación usabilidad. (2014, julio 28). Udl.cat; Curso de Interacción Persona-Ordenador. <a href="https://mpiua.invid.udl.cat/fases-mpiua/evaluacion/metodos-evaluacion-usabilidad/">https://mpiua.invid.udl.cat/fases-mpiua/evaluacion/metodos-evaluacion-usabilidad/</a></p>
-<p>Cazares, P., Carlos, C., &amp; Velázquez, E. (s/f). Pruebas de usabilidad y diseño Web. <a href="http://Edu.mx">Edu.mx</a>. Recuperado el 16 de noviembre de 2023, de <a href="https://www.uaeh.edu.mx/nuestro_alumnado/icbi/articulos/Pruebas_de_usabilidad_y_diseno_web.pdf">https://www.uaeh.edu.mx/nuestro_alumnado/icbi/articulos/Pruebas_de_usabilidad_y_diseno_web.pdf</a></p>
-<p>Pruebas de usabilidad. (s/f). <a href="http://Github.io">Github.io</a>. Recuperado el 16 de noviembre de 2023, de <a href="https://gcba.github.io/estandares/creamos_experiencias/usabilidad/pruebas-de-usabilidad/">https://gcba.github.io/estandares/creamos_experiencias/usabilidad/pruebas-de-usabilidad/</a></p>
+<h2 id="example-based-on-experience">Example based on experience:</h2>
+<p>In my case, I made the sketches of the user interfaces, in my experience I carried out this method of usability testing halfway so to speak, since I marked the objectives that the interfaces had to have based on the functional and non-functional requirements , I had to make sure that it met these requirements, on the other hand, I asked several people what they thought about the appearance and whether it was easy and quick to understand, this helped me give an idea in which I could realize what aspect to improve the interfaces and to be able to improve them with respect to the opinions of the different people I asked, and I repeated this same process about three times until I was satisfied with the sketch of interfaces and achieved the objectives of meeting said requirements and making them pleasant , easy and quick to understand for the client.</p>
+<h2 id="references">References:</h2>
+<ul>
+<li>Métodos evaluación usabilidad. (2014, julio 28). Udl.cat; Curso de Interacción Persona-Ordenador. <a href="https://mpiua.invid.udl.cat/fases-mpiua/evaluacion/metodos-evaluacion-usabilidad/">https://mpiua.invid.udl.cat/fases-mpiua/evaluacion/metodos-evaluacion-usabilidad/</a></li>
+<li>Cazares, P., Carlos, C., &amp; Velázquez, E. (s/f). Pruebas de usabilidad y diseño Web. <a href="http://Edu.mx">Edu.mx</a>. Recuperado el 16 de noviembre de 2023, de <a href="https://www.uaeh.edu.mx/nuestro_alumnado/icbi/articulos/Pruebas_de_usabilidad_y_diseno_web.pdf">https://www.uaeh.edu.mx/nuestro_alumnado/icbi/articulos/Pruebas_de_usabilidad_y_diseno_web.pdf</a></li>
+<li>Pruebas de usabilidad. (s/f). <a href="http://Github.io">Github.io</a>. Recuperado el 16 de noviembre de 2023, de <a href="https://gcba.github.io/estandares/creamos_experiencias/usabilidad/pruebas-de-usabilidad/">https://gcba.github.io/estandares/creamos_experiencias/usabilidad/pruebas-de-usabilidad/</a></li>
+</ul>
 
