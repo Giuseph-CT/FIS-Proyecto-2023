@@ -8,7 +8,7 @@
 <ul>
 <li>Continuous Improvement
 <ul>
-<li>Focusing on UX, we can make specific improvements to the software.</li>
+<li>Focusing on UX, we can make specific improvements to the software so we can add or remove features according of their impact on users.</li>
 </ul>
 </li>
 </ul>
