@@ -3,16 +3,31 @@
 
 ---
 
-<h1 id="metodologías-ágiles">Metodologías ágiles</h1>
+<h1 id="agile-methodologies">Agile Methodologies</h1>
 <h2 id="kanban">Kanban</h2>
 <ul>
-<li>Kanban es un marco de gestión de proyectos que se basa en tareas visuales para gestionar los flujos de trabajo.</li>
-<li>Los equipos de Kanban se centran en reducir el tiempo que se tarda en llevar un proyecto (o historia de usuario) del principio al fin del proceso.</li>
+<li>Continuous Improvement
+<ul>
+<li>Focusing on UX, we can make specific improvements to the software.</li>
+</ul>
+</li>
 </ul>
 <h2 id="scrum">Scrum</h2>
 <ul>
-<li>Los equipos de Scrum se comprometen a completar un incremento de trabajo, que potencialmente se puede entregar, a través de intervalos establecidos llamados sprints.</li>
-<li>Scrum es un marco de gestión de proyectos que ayuda a los equipos a estructurar y gestionar su trabajo mediante un conjunto de valores, principios y prácticas.</li>
-<li>Su objetivo es crear bucles de aprendizaje para recopilar e integrar rápidamente los comentarios de los clientes.</li>
+<li>Time Allocation
+<ul>
+<li>Allocating the ideal time for tasks leads to better organization and a clearer understanding of project progress.</li>
+</ul>
+</li>
+<li>Iterative Development
+<ul>
+<li>Using sprints, we achieve a better UX through feedback at each stage of the proyect.</li>
+</ul>
+</li>
+<li>Value-Based Prioritization
+<ul>
+<li>Relying on sprints enables us to determine which tasks are more important and assign them a value to work on urgent ones.</li>
+</ul>
+</li>
 </ul>
 
