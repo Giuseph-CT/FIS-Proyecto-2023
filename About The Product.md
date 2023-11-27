@@ -10,6 +10,6 @@
 <p>In the third delivery, the software maintained its objective, as well as the functions that were added throughout this process, eventually being defined as software that holds value in the facilities it provides for the management of files necessary for nutritional care.</p>
 <p><strong>Users/clients</strong></p>
 <p>The main users for this software are nutrition professionals aiming to provide efficient and comprehensive nutritional care to patients attending consultations. The nutrition professional will need to input specific patient data and information into the software for it to function correctly.</p>
-<p><strong>Propuesta de valor</strong></p>
+<p><strong>Value Proposition</strong></p>
 <p>With the use of this software, the aim is to make the management of files, documents, records, and nutritional data easy, fast, and efficient. The cloud functionality is implemented to ensure that these files and documents, which encompass the patient’s nutritional history, including editable medical records and requirement calculations, are always accessible. Once the user inputs the necessary data, the software will generate a personalized record that is saved in the cloud for access whenever needed, even from another device, simply by logging into their personal account.</p>
 
