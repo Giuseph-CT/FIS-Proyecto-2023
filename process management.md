@@ -29,7 +29,12 @@
 <td>Review the functional requirements, evolve the non-functional ones, make the final requirements listing</td>
 <td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a></td>
 </tr>
+<tr>
+<td>23/11/23</td>
+<td>giuseph</td>
+<td>The purpose of the software’s value and its cloud functionality were discussed as a form of innovation</td>
+<td>Formulate the software’s innovation approach</td>
+<td></td>
+</tr>
 </tbody>
-</table><p>| 23/11/23| giusep |<br>
-| 25/11/23|</p>
-
+</table>
