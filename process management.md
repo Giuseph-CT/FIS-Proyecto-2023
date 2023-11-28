@@ -11,7 +11,7 @@
 <th>responsible</th>
 <th>planning</th>
 <th>activities</th>
-<th>resulted</th>
+<th>evidence</th>
 </tr>
 </thead>
 <tbody>
