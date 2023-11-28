@@ -24,17 +24,12 @@
 </tr>
 <tr>
 <td>20/11/23</td>
-<td>jorge amir</td>
-<td>se tienen que evolucionar los requerimientos, sin embargo al revisar los funcionales  nos dimos cuenta que no se  es necesario  y los dejamos así como están sin embargo los no funcionales si los evolucionamos  y ya estan listos para el listado</td>
-<td>revisaron los requerimientos funcionales,evolucionar los no funcionales,hacer el listado final de requisitos</td>
+<td>amir and benjamin</td>
+<td>The requirements need to evolve; however, upon reviewing the functional ones, we realized that they are not necessary, so we left them as they are. Nonetheless, we have evolved the non-functional requirements, and they are already prepared for the listing.</td>
+<td>Review the functional requirements, evolve the non-functional ones, make the final requirements listing</td>
 <td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a></td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
-</table>
+</table><p>| 23/11/23| giusep |<br>
+| 25/11/23|</p>
+
