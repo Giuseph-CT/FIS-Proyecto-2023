@@ -41,7 +41,7 @@
 <td>benjamin and amir</td>
 <td>a</td>
 <td>a</td>
-<td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a>25/11/23benjamin and amiraa</td>
+<td>[<a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Design">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Design</a>]</td>
 </tr>
 <tr>
 <td>26/11/23</td>
@@ -60,8 +60,8 @@
 <tr>
 <td>27/11/23</td>
 <td>cristian, adrian, mijail, amir</td>
-<td>decidimos hacer un video que este dividido en 3 partes, el story telling  es la introducción y abordamos el problema y el motivo por el cual decidimos crear el software, después sigue la presentación de nuestro software donde explicamos detalladamente en que consiste, y por ultimo una conclusión a manera de resumen</td>
-<td>editar el video, hacer el guion del video, hacer la voz en off del video, hacer las diapositivas para el video, conseguir material de grabación</td>
+<td>We decided to make a video divided into 3 parts. The storytelling serves as the introduction where we address the issue and the reason why we decided to create the software. Then follows the presentation of our software, where we explain in detail what it consists of. Finally, there’s a conclusion serving as a summary</td>
+<td></td>
 <td>LINK</td>
 </tr>
 <tr>
