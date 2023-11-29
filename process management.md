@@ -59,9 +59,9 @@
 </tr>
 <tr>
 <td>27/11/23</td>
-<td>cristian, adrian, mijail, amir</td>
+<td>cristian, adrian, mijail, amir,mijail,benjamin</td>
 <td>We decided to make a video divided into 3 parts. The storytelling serves as the introduction where we address the issue and the reason why we decided to create the software. Then follows the presentation of our software, where we explain in detail what it consists of. Finally, there’s a conclusion serving as a summary</td>
-<td></td>
+<td>edit the video, make the script, do the voice-over, get recording media, make slides for the video presentation, get appropriate clothing</td>
 <td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Presentation">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Presentation</a></td>
 </tr>
 <tr>
