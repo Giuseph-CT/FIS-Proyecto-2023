@@ -48,7 +48,7 @@
 <td>adrian</td>
 <td>a</td>
 <td>a</td>
-<td>“<a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a>”</td>
+<td>“<a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Testing">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Testing</a>”</td>
 </tr>
 <tr>
 <td>26/11/23</td>
