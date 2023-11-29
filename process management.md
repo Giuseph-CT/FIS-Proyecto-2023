@@ -55,7 +55,7 @@
 <td>mijail, giuseph, cristian</td>
 <td>In the second delivery, we didn’t subdivide the sections properly. Therefore, for this delivery, we decided to subdivide them to have better organization. Additionally, being a new delivery, we need to make adjustments to the contribution metrics</td>
 <td>Adjust the new contribution metrics and add folders to subdivide the sections that make up delivery 3</td>
-<td>LINK</td>
+<td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Process">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Process</a></td>
 </tr>
 <tr>
 <td>27/11/23</td>
