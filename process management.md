@@ -64,5 +64,12 @@
 <td>editar el video, hacer el guion del video, hacer la voz en off del video, hacer las diapositivas para el video, conseguir material de grabación</td>
 <td>LINK</td>
 </tr>
+<tr>
+<td>28/11/23</td>
+<td>benjamin , cristian</td>
+<td>MALDITO BENJI</td>
+<td>BENJI ES PUTO</td>
+<td>LINK</td>
+</tr>
 </tbody>
 </table>
