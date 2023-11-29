@@ -62,7 +62,7 @@
 <td>cristian, adrian, mijail, amir</td>
 <td>We decided to make a video divided into 3 parts. The storytelling serves as the introduction where we address the issue and the reason why we decided to create the software. Then follows the presentation of our software, where we explain in detail what it consists of. Finally, there’s a conclusion serving as a summary</td>
 <td></td>
-<td>LINK</td>
+<td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Presentation">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Presentation</a></td>
 </tr>
 <tr>
 <td>28/11/23</td>
