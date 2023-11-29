@@ -17,40 +17,7 @@
 <li>survey:<a href="https://forms.gle/jVgycmpXBVmPF49D8">https://forms.gle/jVgycmpXBVmPF49D8</a></li>
 </ul>
 <hr>
-<h3 id="user-1">User 1</h3>
-<p>Name: Gaspar Alejos Tenrreiro<br>
-Mail: <a href="mailto:gasparalejos@gmail.com">gasparalejos@gmail.com</a></p>
-<ul>
-<li>Nutritionist profile</li>
-</ul>
-<p>What is your main specialization as a nutritionist?<br>
-“Overweight and obesity.”</p>
-<p>How many years of experience do you have in nutritional practice?<br>
-“4”</p>
-<p>What type of clients do you tend to serve most frequently?<br>
-“usually overweight  people”</p>
-<ul>
-<li>Use of Current Tools:</li>
-</ul>
-<p>“Do you currently use any tools or software for nutritional planning?<br>
-No, I don’t use any software, almost everything I do by hand or I usually just take notes on the computer”</p>
-<p>What are the most important features you look for in a platform of this type?<br>
-“that they have the necessary tools that facilitate calculations when analyzing and establishing diets with patients”</p>
-<p>Do you experience any specific challenges with the tools you currently use?<br>
-“No, however I would like to know new tools”</p>
-<p>What specific information would you like to record and track for each client?<br>
-“weight, fats ingested, carbohydrates and proteins consumed daily by the patient”</p>
-<ul>
-<li>Desired Features:</li>
-</ul>
-<p>What specific features would you like to see in a nutrition planning platform?<br>
-“that I can do basic and key calculations to facilitate”</p>
-<p>Are there any specific features that you consider essential for your daily work?<br>
-“I repeat, that you can calculate the percentage of fats, proteins and carbohydrates”</p>
-<p>Do you have previous experience using cloud-based platforms?<br>
-“yes”</p>
-<p>Are there any specific concerns you have regarding using the cloud for your practice?<br>
-“momentarily none, however sometimes I’m afraid that things won’t be saved the way I want”</p>
+
 <h3 id="user-1-1">User 1</h3>
 <ul>
 <li><strong>Full Name:</strong> Gaspar Alejos Tenrreiro</li>
