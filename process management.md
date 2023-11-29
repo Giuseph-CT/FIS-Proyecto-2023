@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td>20/11/23</td>
-<td>amir and benjamin</td>
+<td>amir,adrian,cristian and benjamin</td>
 <td>The requirements need to evolve; however, upon reviewing the functional ones, we realized that they are not necessary, so we left them as they are. Nonetheless, we have evolved the non-functional requirements, and they are already prepared for the listing.</td>
 <td>Review the functional requirements, evolve the non-functional ones, make the final requirements listing</td>
 <td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a></td>
@@ -34,7 +34,28 @@
 <td>giuseph</td>
 <td>The purpose of the software’s value and its cloud functionality were discussed as a form of innovation</td>
 <td>Formulate the software’s innovation approach</td>
-<td></td>
+<td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a></td>
+</tr>
+<tr>
+<td>25/11/23</td>
+<td>benjamin and amir</td>
+<td>a</td>
+<td>a</td>
+<td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a>25/11/23benjamin and amiraa</td>
+</tr>
+<tr>
+<td>26/11/23</td>
+<td>adrian</td>
+<td>a</td>
+<td>a</td>
+<td>“<a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a>”</td>
+</tr>
+<tr>
+<td>26/11/23</td>
+<td>mijail, giuseph, cristian</td>
+<td>In the second delivery, we didn’t subdivide the sections properly. Therefore, for this delivery, we decided to subdivide them to have better organization. Additionally, being a new delivery, we need to make adjustments to the contribution metrics</td>
+<td>Adjust the new contribution metrics and add folders to subdivide the sections that make up delivery 3</td>
+<td>LINK</td>
 </tr>
 </tbody>
 </table>
