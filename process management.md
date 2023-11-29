@@ -57,5 +57,12 @@
 <td>Adjust the new contribution metrics and add folders to subdivide the sections that make up delivery 3</td>
 <td>LINK</td>
 </tr>
+<tr>
+<td>27/11/23</td>
+<td>cristian, adrian, mijail, amir</td>
+<td>decidimos hacer un video que este dividido en 3 partes, el story telling  es la introducción y abordamos el problema y el motivo por el cual decidimos crear el software, después sigue la presentación de nuestro software donde explicamos detalladamente en que consiste, y por ultimo una conclusión a manera de resumen</td>
+<td>editar el video, hacer el guion del video, hacer la voz en off del video, hacer las diapositivas para el video, conseguir material de grabación</td>
+<td>LINK</td>
+</tr>
 </tbody>
 </table>
