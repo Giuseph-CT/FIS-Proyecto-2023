@@ -27,7 +27,7 @@
 <td>amir,adrian,cristian and benjamin</td>
 <td>The requirements need to evolve; however, upon reviewing the functional ones, we realized that they are not necessary, so we left them as they are. Nonetheless, we have evolved the non-functional requirements, and they are already prepared for the listing.</td>
 <td>Review the functional requirements, evolve the non-functional ones, make the final requirements listing</td>
-<td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3</a></td>
+<td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3" title="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/jorge-salomon3">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Requirements</a></td>
 </tr>
 <tr>
 <td>23/11/23</td>
