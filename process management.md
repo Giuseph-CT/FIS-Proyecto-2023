@@ -67,8 +67,8 @@
 <tr>
 <td>28/11/23</td>
 <td>benjamin , cristian</td>
-<td>MALDITO BENJI</td>
-<td>BENJI ES PUTO</td>
+<td>A</td>
+<td>A</td>
 <td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Professional%20skills">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Professional skills</a></td>
 </tr>
 </tbody>
