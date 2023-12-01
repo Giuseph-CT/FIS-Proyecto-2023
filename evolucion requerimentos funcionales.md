@@ -9,6 +9,12 @@
 <h1 id="requirements">Requirements</h1>
 <ol>
 <li>
+<p><strong>User Authentication (Login):</strong></p>
+<ul>
+<li>Implement a secure login system requiring unique credentials for access. This ensures the privacy and security of patient information.</li>
+</ul>
+</li>
+<li>
 <p><strong>Patient Registration:</strong></p>
 <ul>
 <li>The system must allow nutrition professionals to register patients, including personal, medical, and nutritional information. Additionally, the importation of patient data from electronic health record (EHR) systems should be permitted to simplify the process.</li>
