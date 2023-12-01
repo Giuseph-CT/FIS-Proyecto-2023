@@ -3,8 +3,7 @@
 
 ---
 
-<h1 id="requisitos-funcionales">requisitos funcionales</h1>
-<h1 id="section"></h1>
+<h1 id="functiolan-requierements">Functiolan requierements</h1>
 <p>After conducting a meticulous review and thorough contemplation, the determination has been made to retain the current set of requirements without any alterations. This decision is founded on a comprehensive analysis and is substantiated by several compelling reasons supporting the decision to keep the functional requirements unchanged.</p>
 <h1 id="requirements">Requirements</h1>
 <ol>
