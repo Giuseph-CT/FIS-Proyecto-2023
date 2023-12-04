@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="software-configuration-management-audit-report"># Software Configuration Management Audit Report</h1>
+<h1 id="software-configuration-management-audit-report">Software Configuration Management Audit Report</h1>
 <h2 id="audit-use-case-1">Audit <a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/blob/TerceraEntrega_MD/Artifacts/use%20cases.md">use-case 1</a></h2>
 <ol>
 <li>Is the use-case name meaningful and unambiguous?  <strong>YES</strong></li>
