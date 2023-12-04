@@ -97,38 +97,7 @@
 <li>The nutritionist successfully sets personalized nutritional goals for the selected patient, stored securely in the cloud.</li>
 </ul>
 <hr>
-<h3 id="section"></h3>
-<p>Use Case 3: Set Nutritional Goals</p>
-<p><strong>Objective:</strong> The nutritionist should be able to establish and manage personalized nutritional goals for each patient through the cloud-based system.</p>
-<p><strong>Actors:</strong></p>
-<ul>
-<li>Nutritionist (Primary User)</li>
-<li>Cloud Storage</li>
-</ul>
-<p><strong>Main Flow of Events:</strong></p>
-<ol>
-<li>The nutritionist logs into the nutritional calculation software in the cloud.</li>
-<li>Selects the “Set Nutritional Goals” option from the main menu.</li>
-<li>Chooses a specific patient for whom they want to establish nutritional goals.</li>
-<li>The system retrieves the patient’s current nutritional data and history from the cloud.</li>
-<li>The nutritionist sets personalized nutritional goals for the patient, such as daily caloric intake, macronutrient distribution, and target weight.</li>
-<li>The system securely saves the newly established goals in the cloud, associating them with the selected patient.</li>
-</ol>
-<p><strong>Alternative Event Flows:</strong></p>
-<ol>
-<li>If the nutritionist attempts to set unrealistic goals, the system provides a warning and suggests more achievable targets.</li>
-<li>If there is an issue saving the nutritional goals, the system informs the nutritionist and recommends retrying or checking the internet connection.</li>
-</ol>
-<p><strong>Preconditions:</strong></p>
-<ul>
-<li>The nutritionist has access to an internet connection.</li>
-<li>The nutritional calculation software is functioning correctly.</li>
-</ul>
-<p><strong>Postconditions:</strong></p>
-<ul>
-<li>The nutritionist successfully sets personalized nutritional goals for the selected patient, stored securely in the cloud.</li>
-</ul>
-<hr>
+
 <h3 id="use-case-4-monitor-compliance-and-progress">Use Case 4: Monitor Compliance and Progress</h3>
 <p><strong>Objective:</strong> The nutritionist should be able to monitor the patient’s compliance with nutritional goals and track overall progress through the cloud-based system.</p>
 <p><strong>Actors:</strong></p>
