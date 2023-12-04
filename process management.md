@@ -67,8 +67,8 @@
 <tr>
 <td>28/11/23</td>
 <td>benjamin , cristian</td>
-<td>A</td>
-<td>A</td>
+<td>decidimos  utilizar las competencias del plan de estudio para ver cuales son las que  pusimos en practica nosotros y argumentarlas explicando el porque  y el como de cada competencia, tanto genérica  como las especificas</td>
+<td>argumentar las competencias utilizando como apoyo las competencias del plan de estudio, hacer  una critica constructiva al curso</td>
 <td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Professional%20skills">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Professional skills</a></td>
 </tr>
 </tbody>
