@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2023-09-11" view-index="0" gantt-divider-location="417" resource-divider-location="300" version="3.2.3247" locale="es_MX">
+    <description/>
+    <view zooming-state="default:1" id="gantt-chart">
+        <field id="tpd3" name="Name" width="162" order="0"/>
+        <field id="tpd4" name="Begin date" width="61" order="1"/>
+        <field id="tpd5" name="End date" width="61" order="2"/>
+        <field id="tpc0" name="responsible" width="79" order="3"/>
+        <field id="tpd1" name="Priority" width="38" order="4"/>
+        <option id="filter.completedTasks" value="true"/>
+        <option id="color.recent">
+            <![CDATA[#ff0000 #ff9933 #ffff00 #66ccff #cc0000 #333333 #ffcc33 #330099 #000066 #999900]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+            <taskproperty id="tpc0" name="responsible" type="custom" valuetype="text" defaultvalue="cristian de martino"/>
+        </taskproperties>
+        <task id="23" name="meeting" color="#cc0000" meeting="true" start="2023-09-14" duration="0" complete="0" thirdDate="2023-09-13" thirdDate-constraint="0" expand="true">
+            <depend id="0" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value=""/>
+        </task>
+        <task id="0" name="Process description" color="#000066" meeting="false" start="2023-09-15" duration="9" complete="0" thirdDate="2023-10-02" thirdDate-constraint="0" priority="2" expand="true">
+            <depend id="24" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="giuseph chan"/>
+            <task id="22" name="description of the process" color="#000066" meeting="false" start="2023-09-15" duration="9" complete="0" thirdDate="2023-09-15" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[caritsts
+]]>
+                </notes>
+                <customproperty taskproperty-id="tpc0" value="giuseph chan"/>
+            </task>
+            <task id="8" name="value proposition" color="#330099" meeting="false" start="2023-09-15" duration="9" complete="0" thirdDate="2023-09-15" thirdDate-constraint="0" expand="true">
+                <customproperty taskproperty-id="tpc0" value="Giuseph Chan"/>
+            </task>
+            <task id="7" name="users/customers" color="#000066" meeting="false" start="2023-09-15" duration="9" complete="0" thirdDate="2023-09-15" thirdDate-constraint="0" expand="true">
+                <notes>
+                    <![CDATA[caritsts
+]]>
+                </notes>
+                <customproperty taskproperty-id="tpc0" value="giuseph chan"/>
+            </task>
+        </task>
+        <task id="24" name="product meeting" color="#ff0000" meeting="true" start="2023-09-28" duration="0" complete="0" thirdDate="2023-09-11" thirdDate-constraint="0" expand="true">
+            <customproperty taskproperty-id="tpc0" value=""/>
+        </task>
+        <task id="25" name="requirements" color="#66ccff" meeting="false" start="2023-09-18" duration="9" complete="0" thirdDate="2023-09-11" thirdDate-constraint="0" expand="true">
+            <customproperty taskproperty-id="tpc0" value="Amir,Adrian,Benajim"/>
+            <task id="11" name="artifacts" color="#33ccff" meeting="false" start="2023-09-19" duration="6" complete="0" thirdDate="2023-09-19" thirdDate-constraint="0" expand="true">
+                <customproperty taskproperty-id="tpc0" value="Benjamin Poot"/>
+            </task>
+            <task id="12" name="priorization" color="#33ccff" meeting="false" start="2023-09-19" duration="8" complete="0" thirdDate="2023-09-19" thirdDate-constraint="0" expand="true">
+                <customproperty taskproperty-id="tpc0" value="Benjamin Poot"/>
+            </task>
+            <task id="13" name="non-functional requirements" color="#33ccff" meeting="false" start="2023-09-18" duration="9" complete="0" thirdDate="2023-09-19" thirdDate-constraint="0" priority="0" expand="true">
+                <customproperty taskproperty-id="tpc0" value="Adrian Zapata"/>
+            </task>
+            <task id="10" name="functional requirements" color="#33ccff" meeting="false" start="2023-09-19" duration="8" complete="0" thirdDate="2023-09-19" thirdDate-constraint="0" priority="0" expand="true">
+                <customproperty taskproperty-id="tpc0" value="Amir Salomon"/>
+            </task>
+        </task>
+        <task id="26" name="process" color="#ffff00" meeting="false" start="2023-09-15" duration="11" complete="0" thirdDate="2023-09-11" thirdDate-constraint="0" expand="true">
+            <customproperty taskproperty-id="tpc0" value="cristian,Mijail"/>
+            <task id="15" name="process management" color="#999900" meeting="false" start="2023-09-18" duration="10" complete="0" thirdDate="2023-09-08" thirdDate-constraint="0" expand="true">
+                <customproperty taskproperty-id="tpc0" value="giuseph,Mijail"/>
+            </task>
+            <task id="16" name="Individual contribution metric" color="#ffff00" meeting="false" start="2023-09-15" duration="1" complete="0" thirdDate="2023-09-15" thirdDate-constraint="0" priority="0" expand="true">
+                <depend id="15" type="2" difference="0" hardness="Strong"/>
+                <customproperty taskproperty-id="tpc0" value="cristian,Mijail"/>
+            </task>
+            <task id="14" name="Process description" color="#ffff00" meeting="false" start="2023-09-15" duration="1" complete="0" thirdDate="2023-09-08" thirdDate-constraint="0" priority="0" expand="true">
+                <depend id="15" type="2" difference="0" hardness="Strong"/>
+                <customproperty taskproperty-id="tpc0" value="Mijail Manrique"/>
+            </task>
+        </task>
+        <task id="27" name="presentation" color="#ff9933" meeting="false" start="2023-09-25" duration="5" complete="0" thirdDate="2023-09-12" thirdDate-constraint="0" expand="true">
+            <depend id="28" type="2" difference="0" hardness="Strong"/>
+            <customproperty taskproperty-id="tpc0" value="giusep,cristian,adrian,mijail"/>
+            <task id="18" name="Presentation Format" color="#ff9933" meeting="false" start="2023-09-25" duration="3" complete="0" thirdDate="2023-09-27" thirdDate-constraint="0" expand="true">
+                <depend id="19" type="2" difference="0" hardness="Strong"/>
+                <customproperty taskproperty-id="tpc0" value="cristian,mijail,adrian"/>
+            </task>
+            <task id="20" name="Presentation Rhythm" color="#ff9933" meeting="false" start="2023-09-25" duration="4" complete="0" thirdDate="2023-09-27" thirdDate-constraint="0" priority="0" expand="true">
+                <depend id="19" type="2" difference="0" hardness="Strong"/>
+                <customproperty taskproperty-id="tpc0" value="Giuseph and mijail"/>
+            </task>
+            <task id="19" name="Use of language" color="#ffcc33" meeting="false" start="2023-09-29" duration="1" complete="0" thirdDate="2023-09-27" thirdDate-constraint="0" priority="0" expand="true">
+                <customproperty taskproperty-id="tpc0" value="Amir Salomon"/>
+            </task>
+        </task>
+        <task id="28" name="final meeting" color="#ff0000" meeting="true" start="2023-10-02" duration="0" complete="0" thirdDate="2023-09-15" thirdDate-constraint="0" expand="true">
+            <customproperty taskproperty-id="tpc0" value=""/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>
