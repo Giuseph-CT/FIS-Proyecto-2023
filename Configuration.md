@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="configuration">Configuration</h1>
+<h1 id="software-configuration-management-audit-report"># Software Configuration Management Audit Report</h1>
 <h2 id="audit-use-case-2">Audit <a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/blob/TerceraEntrega_MD/Artifacts/use%20cases.md">use-case 2</a></h2>
 <ol>
 <li>Is the use-case name meaningful and unambiguous?  <strong>YES</strong></li>
@@ -59,6 +59,7 @@
 <ol start="7">
 <li>Are applicable nonfunctional requirements captured? <strong>NO</strong></li>
 </ol>
-<p>SOURCE:<br>
+<p>In conclusion, this use-case fills almost all the points of the list so it can be improved to fill the last point of the list<br>
+SOURCE:<br>
 <a href="https://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/checklists/use_case_C5362874.html">Checklist: Use Case (utm.mx)</a></p>
 
