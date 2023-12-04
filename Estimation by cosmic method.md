@@ -14,4 +14,4 @@
 <p>Timerequired</p>
 <p>Project duration = COSMIC function points / COSMIC function points month Project duration = X months</p>
 <p>Project duration = 2 COSMIC function points / 7 COSMIC function points month Sprint duration = 0.28 months</p>
-
+<p>pmoinformatica.com. (2018, 12 marzo). Ejemplos de estimación de costos de un proyecto de software. http://www.pmoinformatica.com/2018/03/ejemplos-de-estimacion-de-costos-de-un-proyecto-de-software-COSMIC.html</p>
