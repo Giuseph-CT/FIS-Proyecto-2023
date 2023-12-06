@@ -14,13 +14,13 @@ Repository created for the development of the Software Engineering Fundamentals 
 
 # Index
 **Project**
- - [First delivery of the project](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/PrimeraEntrega_MD)
- - [Second Delivery of the Project](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/SegundaEntrega_MD)
- - [Third Delivery of the Project](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD)
+ - [First Increment of the project](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/PrimeraEntrega_MD)
+ - [Second Increment of the Project](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/SegundaEntrega_MD)
+ - [Third Increment of the Project](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD)
 
 
 **Performance tests**
 
  - [First performance test](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/PD-1)
- - [Second performance delivery](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/PD-2-3)
- - [Third performance delivery](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/PD-4)
+ - [Second performance test](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/PD-2-3)
+ - [Third performance test](https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/PD-4)
