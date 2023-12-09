@@ -1,9 +1,11 @@
+
 ---
 
 
 ---
 
 <h2 id="sprint-no.3-third-installment">Sprint No.3 (Third installment)</h2>
+<a href="https://ibb.co/5rD1vRL"><img src="https://i.ibb.co/x1v2G76/image.png" alt="image" border="0"></a>
 <p>Evidence gathered: <a href="https://alumnosuady-my.sharepoint.com/:i:/g/personal/a19203818_alumnos_uady_mx/ERkSI5Z7yjhJgNIb51mYrHYBtbc-S2Laaj31EUJWw1hFng?e=m9bPVD">Reu-Computo.jpg</a></p>
 <p>Size: 25 days</p>
 <p>Start: 16-Nov-2023</p>
