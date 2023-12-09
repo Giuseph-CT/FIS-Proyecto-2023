@@ -51,13 +51,9 @@
 </li>
 </ol>
 <h2 id="value-proposition">Value Proposition</h2>
-<ul>
-<li>An identified need</li>
-</ul>
+<p><strong>An identified need</strong></p>
 <p>With the use of this software, the aim is to make the management of files, documents, records, and nutritional data easy, fast, and efficient. The cloud functionality is implemented to ensure that these files and documents, which encompass the patient’s nutritional history, including editable medical records and requirement calculations, are always accessible. Once the user inputs the necessary data, the software will generate a personalized record that is saved in the cloud for access whenever needed, even from another device, simply by logging into their personal account.</p>
-<ul>
-<li>What does this product include that others don’t?</li>
-</ul>
+<p><strong>What does this product include that others don’t?</strong></p>
 <p>In accordance with this, five points were established to describe the software’s value proposition:</p>
 <ul>
 <li>
@@ -80,10 +76,8 @@
 <p><strong>Continuous Updates:</strong></p>
 <p>Regular software updates and technical support to ensure smooth operation and an optimal user experience.</p>
 </li>
-<li>
-<p>Why is it considered original?</p>
-</li>
 </ul>
+<p><strong>Why is it considered original?</strong></p>
 <p>We consider that the proposed product is original, since although there are currently similar software available, ours stands out for incorporating all these functionalities described above in a single place for the user.<br>
 Thanks to this integration, it will enable users to have a secure site and a more organized, comfortable, and comprehensive working ecosystem compared to the current one.</p>
 
