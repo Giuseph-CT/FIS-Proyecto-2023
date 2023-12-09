@@ -46,8 +46,8 @@
 <tr>
 <td>26/11/23</td>
 <td>adrian</td>
-<td>a</td>
-<td>a</td>
+<td>We asked for help from 5 users to assist us in conducting informal tests through the interface we developed.</td>
+<td>User interface evaluation, recording the evaluation results."</td>
 <td>“<a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Testing">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Testing</a>”</td>
 </tr>
 <tr>
