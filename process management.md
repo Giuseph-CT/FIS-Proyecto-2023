@@ -39,8 +39,8 @@
 <tr>
 <td>25/11/23</td>
 <td>benjamin and amir</td>
-<td>a</td>
-<td>a</td>
+<td>It was necessary to modify the user interfaces since in the second submission, they were too simple and not entirely correct.</td>
+<td>Modify interfaces, verify requirements, use case diagram.</td>
 <td>[<a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Design">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Design</a>]</td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@
 <tr>
 <td>28/11/23</td>
 <td>benjamin , cristian</td>
-<td>decidimos  utilizar las competencias del plan de estudio para ver cuales son las que  pusimos en practica nosotros y argumentarlas explicando el porque  y el como de cada competencia, tanto genérica  como las especificas</td>
+<td>utilizando las competencias del plan de estudio elegimos cuales son las que mas  pusimos en practica  y argumentarlas explicando el porque  y el como de cada competencia, tanto genérica  como las especificas</td>
 <td>argumentar las competencias utilizando como apoyo las competencias del plan de estudio, hacer  una critica constructiva al curso</td>
 <td><a href="https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Professional%20skills">https://github.com/Giuseph-CT/FIS-Proyecto-2023/tree/TerceraEntrega_MD/Professional skills</a></td>
 </tr>
